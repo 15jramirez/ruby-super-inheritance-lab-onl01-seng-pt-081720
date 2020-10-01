@@ -8,6 +8,7 @@ class Chatty_student < Student
     super 
      5.times do 
        puts "Pick me!"
-end
+     end
+   end
 
 end
